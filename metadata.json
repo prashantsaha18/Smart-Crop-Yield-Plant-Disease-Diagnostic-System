@@ -1,0 +1,6 @@
+{
+  "name": "AI Prompt Studio",
+  "description": "An interactive sandbox and workspace to compose, optimize, refine, and test LLM system prompts using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
